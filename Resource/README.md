@@ -1,4 +1,4 @@
-# Proposal (Self Idea)
+# Proposal
 AI-Powered Security & Observability Workshop
 
 This repository contains the workshop proposal for an AI + Cloud + Cyber Security training program.
